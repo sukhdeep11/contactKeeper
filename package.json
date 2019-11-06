@@ -20,6 +20,6 @@
     "config": "^3.2.2",
     "express-validator": "^6.2.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.7.1"
+    "mongoose": "^5.7.5"
   }
 }

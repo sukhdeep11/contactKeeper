@@ -17,7 +17,7 @@
   "dependencies": {
     "bcrypt": "^3.0.6",
     "bcryptjs": "^2.4.3",
-    "config": "^3.2.2",
+    "config": "^3.3.8",
     "express-validator": "^6.2.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.1"
